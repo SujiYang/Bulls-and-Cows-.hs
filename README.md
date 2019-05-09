@@ -26,7 +26,7 @@ play
 ```
 I will first ask the user to input the desired number of digits to play (ideally 4-6).
 Once the user inputs the number, it will generate n-digit secret number.
-Then user start to guess the secret number. When it's revealed, the game ends.
+Then user start to guess the secret number and it will give you a feedback. When the number is revealed, the game ends.
 It will ask if the user wants to play another round. 
 Hit "y" for another round or "n" to exit the game.
 
