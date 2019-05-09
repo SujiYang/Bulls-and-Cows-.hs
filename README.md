@@ -1,7 +1,7 @@
 # Bulls-and-Cows-.hs
 Simple Haskell implementation of Bulls and Cows(aka. Number Mastermind, Number Baseball..) game language.
 
-The choice of Haskell programming language is for educational purposes. The code is very simple, more of an exercise than a project.
+The choice of Haskell programming language is for educational purposes. 
 
 ## How Bulls and Cows works
 Bulls and Cows is an classic code-breaking, paper and pencil game, usually played by two players.
@@ -30,5 +30,6 @@ It will ask if the user wants to play another round. Hit "y" for another round o
 Enjoy!
 
 ## To be continued
+The code is very simple, more of an exercise than a project.<br>
 Many things need to be done, mainly on the coding style. <br>
 The project was originally planned to implement two play mode 1) play alone and 2) compete with computer however, only the first mode is included in the code. Stay tuned for updates!
