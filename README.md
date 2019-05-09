@@ -32,4 +32,5 @@ Enjoy!
 ## To be continued
 The code is very simple, more of an exercise than a project.<br>
 Many things need to be done, mainly on the coding style. <br>
-The project was originally planned to implement two play mode 1) play alone and 2) compete with computer however, only the first mode is included in the code. Stay tuned for updates!
+The project was originally planned to implement two play mode 1) play alone and 2) compete with computer however, only the first mode is included in the code.<br>
+Stay tuned for updates.
