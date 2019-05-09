@@ -8,7 +8,8 @@ Bulls and Cows is an classic code-breaking, paper and pencil game, usually playe
 Each player write their own n-digit number (all digits must be different from each other) and try to guess their opponent's number based on the feedback given by the opponent, which is either Bulls or Cows.<br>
 If a number matches a digit and in the right position, “bull”<br>
 If a number matches a digit but not in the right position, “cow” <br>
-Whoever reveals the other's number first wins. More information on the game [here](http://en.wikipedia.org/wiki/Bulls_and_cows).
+Whoever reveals the other's number first wins. <br> 
+More information on the game [here](http://en.wikipedia.org/wiki/Bulls_and_cows).
 
 ## How to use it
 Make suare you have a Haskell Compiler installed on your computer. (You can check [here](https://www.haskell.org/downloads/)).<br>
