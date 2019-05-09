@@ -30,5 +30,5 @@ It will ask if the user wants to play another round. Hit "y" for another round o
 Enjoy!
 
 ## To be continued
-Many things need to be done, mainly on the coding style.
+Many things need to be done, mainly on the coding style. <br>
 The project was originally planned to implement two play mode 1) play alone and 2) compete with computer however, only the first mode is included in the code. Stay tuned for updates!
