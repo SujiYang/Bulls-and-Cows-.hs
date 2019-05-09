@@ -13,7 +13,7 @@ Then simply launch terminal and hit ghci.
 ```
 user@host$ ghci
 ```
-Then move to the directory where you downloaded the file BullsNCows.hs. and load the file.<br>For example,
+Then move to the directory where you downloaded the file BullsNCows.hs and load the file.<br>For example,
 ```
 Prelude> :cd /Users/user/Desktop/
 ```
