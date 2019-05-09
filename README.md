@@ -8,19 +8,19 @@ Bulls and Cows is an classic code-breaking, paper and pencil game, usually playe
 Each player write their own n-digit number (all digits must be different from each other) and try to guess their opponent's number. Whoever reveals the other's number first wins. More information on the game [here] (http://en.wikipedia.org/wiki/Bulls_and_cows).
 
 ## How to use it
-Make suare you have a Haskell Compiler installed on your computer. (You can check [here] https://www.haskell.org/downloads/.
-Then simply launch terminal and hit ghci
+Make suare you have a Haskell Compiler installed on your computer. (You can check [here] https://www.haskell.org/downloads/).
+Then simply launch terminal and hit ghci.
 ```
 user@host$ ghci
 ```
 This will launch Prelude>, then move to the directory where you downloaded the file BullsNCows.hs. and load the file. For example, (for mac users)
 ```
-Prelude> :cd /Users/user@host/Desktop/
+Prelude> :cd /Users/user/Desktop/
 ```
 ```
 Prelude> :load BullsNCows.hs
 ```
-Then hit play to play!
+Then hit play to start game.
 ```
 play
 ```
