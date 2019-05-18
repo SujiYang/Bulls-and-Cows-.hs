@@ -9,8 +9,7 @@ Each player write their own n-digit number (all digits must be different from ea
 *  If a number matches a digit and in the right position, “bull”<br>
 *  If a number matches a digit but not in the right position, “cow” <br>
 
-Whoever reveals the other's number first wins. <br> 
-More information on the game [here](http://en.wikipedia.org/wiki/Bulls_and_cows).<br>
+Whoever reveals the other's number first wins. More information on the game [here](http://en.wikipedia.org/wiki/Bulls_and_cows).<br>
 
 
 ## How to use it
@@ -36,7 +35,6 @@ It will ask if the user wants to play another round. Hit "y" for another round o
 Enjoy!
 
 ## To be continued
-The code is very simple, more of an exercise than a project.<br>
-Many things need to be done, mainly on the coding style. <br>
+The code is very simple. Many things need to be done, mainly on the coding style. <br>
 The project was originally planned to implement two play modes 1) play alone and 2) compete with computer however, only the first mode is included in the code.<br>
-Stay tuned for updates.
+Stay tuned for updates :)
