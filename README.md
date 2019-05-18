@@ -1,5 +1,5 @@
 # Bulls-and-Cows-.hs
-Simple Haskell implementation of Bulls and Cows(aka. Number Mastermind, Number Baseball..) game language.
+Simple Haskell implementation of Bulls and Cows (aka. Number Mastermind, Number Baseball..) game language.
 
 The choice of Haskell programming language is for educational purposes. 
 
@@ -18,7 +18,7 @@ Then simply launch terminal and hit ghci.
 ```
 user@host$ ghci
 ```
-Once you see Preludec> shows up in the terminal, change the working directory to where you downloaded the file BullsNCows.hs and load the file.<br>For example,
+Once you see Preludec> shows up in the terminal, change the working directory to where you downloaded the file BullsNCows.hs and load the file. For example,
 ```
 Prelude> :cd /Users/username/Desktop/
 ```
