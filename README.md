@@ -5,10 +5,11 @@ The choice of Haskell programming language is for educational purposes.
 
 ## How Bulls and Cows works
 Bulls and Cows is an classic code-breaking, paper and pencil game, usually played by two players.
-Each player write their own n-digit number (all digits must be different from each other) and try to guess their opponent's number based on the feedback given by the opponent, which is either Bulls or Cows; Whoever reveals the other's number first wins. <br> 
-More information on the game [here](http://en.wikipedia.org/wiki/Bulls_and_cows).<br>
+Each player write their own n-digit number (all digits must be different from each other) and try to guess their opponent's number based on the feedback given by the opponent, which is either Bulls or Cows; <br>
 * If a number matches a digit and in the right position, “bull”<br>
 * If a number matches a digit but not in the right position, “cow” <br><br>
+Whoever reveals the other's number first wins. <br> 
+More information on the game [here](http://en.wikipedia.org/wiki/Bulls_and_cows).<br>
 
 
 ## How to use it
